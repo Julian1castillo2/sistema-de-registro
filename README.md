@@ -3,3 +3,5 @@
 - Estado del proyecto : En produccion
 
 Para instalar React, ejecuta el siguiente comando: `npm install react`
+
+Hola gente
