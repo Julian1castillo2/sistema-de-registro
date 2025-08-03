@@ -3,4 +3,5 @@
 - Estado del proyecto : En produccion
 
 - Para utilizar el programa 
-  ´´´instalar js´´´
+
+  ´´´npm install js´´´
